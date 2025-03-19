@@ -407,4 +407,9 @@ public class UserView {
 		}
 	}
 	// dkakdsldsaldsakkldsa
+	
+	
+	
+	
+	//수신양호
 }
